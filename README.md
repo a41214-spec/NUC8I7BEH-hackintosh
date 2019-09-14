@@ -9,7 +9,7 @@ This repository contains the files to install macOS on Intel NUC8i7BEH.
 
 Thanks for [randyzhong/OS-X-NUC8i7BEH-Clover](//github.com/rlabrecque/Steamworks.NET)
 
-![alt text](Capture.PNG)
+![alt text](Capture.png)
 
 # Hardware
 - CPU: Intel i7-8559U
