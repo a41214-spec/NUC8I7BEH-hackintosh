@@ -7,7 +7,7 @@
 # OS-X-NUC8i7BEH-Clover
 This repository contains the files to install macOS on Intel NUC8i7BEH.
 
-Thanks for [randyzhong/OS-X-NUC8i7BEH-Clover](//github.com/rlabrecque/Steamworks.NET)
+Thanks for [randyzhong/OS-X-NUC8i7BEH-Clover](//github.com/randyzhong/OS-X-NUC8i7BEH-Clover)
 
 ![alt text](Capture1.png)
 
